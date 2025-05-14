@@ -1,0 +1,11 @@
+{
+  "name": "happy",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "cd dist && npm install && npm start"
+  },
+  "repository": {
+    "type": "git"
+  },
+  "private": true
+}
