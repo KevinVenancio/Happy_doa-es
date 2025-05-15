@@ -28,6 +28,6 @@ Esse projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 Você pode visualizar o layout do projeto através dos links abaixo:
 
-- [Layout Web](https://www.figma.com/file/mDEbnoojksG4w8sOxmudh3/Happy-Web?node-id=0%3A1) 
+- [Layout Web]([https://www.figma.com/file/mDEbnoojksG4w8sOxmudh3/Happy-Web?node-id=0%3A1](https://www.figma.com/proto/zrRVvygCXZT4DBxXqu8WWP/Happy-Web--Copy-?node-id=0-1&t=zD6Kp1mbQ4nCU0EF-1)) 
 
 Lembrando que você precisa ter uma conta no [Figma](http://figma.com/) para acessá-lo.
